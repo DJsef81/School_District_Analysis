@@ -15,7 +15,7 @@ Maria asked us to take out the 9th grade math and reading scores for Thomas High
 # Overview of the school district analysis:
 
 ### Thomas High School Summary Before Removing 9th Grade Scores
-![](/analysis/Thomas_high_with_9th_grade_scores.png)
+![](Analysis/Thomas_high_with_9th_grade_scores.png)
 
 
 ### Thomas High School Summary After Removing 9th Grade Scores
