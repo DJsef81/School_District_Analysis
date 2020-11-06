@@ -14,26 +14,43 @@ Maria asked us to take out the 9th grade math and reading scores for Thomas High
 
 # Overview of the school district analysis:
 
-### Thomas High School Summary Before Removing 9th Grade Scores
-![](Analysis/Thomas_high_with_9th_grade_scores.png)
+## School Summary Before Removing THS 9th Grade Scores
+![](/Analysis/per_school_summary_1.png)
+
+## School Summary After Removing THS 9th Grade Scores
+![](/Analysis/per_school_summary_1.png)
+
+## District Summary Before Removing THS 9th Grade Scores
+![](/Analysis/district_summary_1.png)
+
+## District Summary After Removing THS 9th Grade Scores
+![](/Analysis/district_summary_2.png)
+
+## Math Scores Before Removing THS 9th Grade Scores
+![](/Analysis/math_scores_by_grade_1.png)
+
+## Math Scores After Removing THS 9th Grade Scores
+![](/Analysis/math_scores_by_grade_2.png)
+
+## Reading Scores Before Removing THS 9th Grade Scores
+![](/Analysis/reading_scores_by_grade_1.png)
+
+## Reading Scores After Removing THS 9th Grade Scores
+![](/Analysis/reading_scores_by_grade_2.png)
+
+## Top 5 Schools Before Removing THS 9th Grade Scores
+![](/Analysis/top_schools_1.png)
+
+## Top 5 Schools After Removing THS 9th Grade Scores
+![](/Analysis/top_schools_2.png)
+
+## Bottom 5 Schools Before Removing THS 9th Grade Scores
+![](/Analysis/bottom_schools_1.png)
+
+## Bottom 5 Schools After Removing THS 9th Grade Scores
+![](/Analysis/bottom_schools_2.png)
 
 
-### Thomas High School Summary After Removing 9th Grade Scores
-[Click here](thomas_high_without_9th_grade_scores.png)
-
-### School District Results Before Removing Thomas High School 9th Grade Scores
-[Click here](type_summary_challenge_formatted.png)
-
-### School District Results After Removing Thomas High School 9th Grade Scores
-[Click here](type_summary_module_formatted.png)
-
-There was no change visable after comparing, so we took a look at the averages without formatting the decimal place to see if there was a change on a smaller level. 
-
-### School District Results Before Removing Thomas High School 9th Grade Scores Unformatted
-[Click here](type_summary_challenge_unformatted.png)
-
-### School District Results After Removing Thomas High School 9th Grade Scores Unformatted
-[Click here](type_summary_module_unformatted.png)
 
 # Results:
 
