@@ -14,23 +14,31 @@ Maria asked us to take out the 9th grade math and reading scores for Thomas High
 
 # Overview of the school district analysis:
 
-Before we removed the 9th grade scores from Thomas High School, our school district analysis was:
-  [Click here for Summary pre-removal](type_summary_module_formatted.png)
+### Thomas High School Summary Before Removing 9th Grade Scores
+![](Analysis/Thomas_high_with_9th_grade_scores.png)
 
 
-Our results after removing the 9th grade scores from Thomas High School was: 
-  [Click here for summary post-removal](type_summary_challenge_formatted.png)
+### Thomas High School Summary After Removing 9th Grade Scores
+[Click here](thomas_high_without_9th_grade_scores.png)
 
-As you can see, comparing the previous school district analysis to the school district analysis after removing the test scores shows no change. However, by undoing our formatting to show to places after a decimal point, we were able to see a slight change in the percentages. 
+### School District Results Before Removing Thomas High School 9th Grade Scores
+[Click here](type_summary_challenge_formatted.png)
 
-[Click here for Summary pre-removal and unformatted](type_summary_challenge_unformatted.png)
+### School District Results After Removing Thomas High School 9th Grade Scores
+[Click here](type_summary_module_formatted.png)
 
-[Click here for Summary post-removal and unformatted](type_summary_module_unformatted.png)
+There was no change visable after comparing, so we took a look at the averages without formatting the decimal place to see if there was a change on a smaller level. 
 
+### School District Results Before Removing Thomas High School 9th Grade Scores Unformatted
+[Click here](type_summary_challenge_unformatted.png)
+
+### School District Results After Removing Thomas High School 9th Grade Scores Unformatted
+[Click here](type_summary_module_unformatted.png)
 
 # Results:
 
 ## How does replacing the ninth-grade scores affect the following:
+
 ### Math and reading scores by grade
 
 Examining the math and reading score by grade, all the schools remained unaffected except of course the Thomas High School ninth grade scores which returned a NaN value.
