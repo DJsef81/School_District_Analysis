@@ -1,5 +1,6 @@
 # School_District_Analysis
 
+# Overview of the school district analysis:
 We were tasked with assisting Chief Data Scientist Maria of City School District. Her job consists of preparing all standardized tests data for analysis to inform discussions and strategize decisions at the school and district level by looking for performance trends and patterns in the data. 
 
 We analyzed student funding and student standardized test scores, then aggregated the data and showcased trends in school performance in order to assist the school board and superintendent in making their decisions on where to prioritize funding with their budget. 
@@ -12,7 +13,7 @@ Maria asked us to take out the 9th grade math and reading scores for Thomas High
 - Data Source: schools_complete.csv, students_complete.csv
 - Software: Python 3.7.7, Jupyter Notebook 6.1.4
 
-# Overview of the school district analysis:
+# Results 
 
 ## School Summary Before Removing THS 9th Grade Scores
 ![](/Analysis/per_school_summary_1.png)
@@ -50,9 +51,23 @@ Maria asked us to take out the 9th grade math and reading scores for Thomas High
 ## Bottom 5 Schools After Removing THS 9th Grade Scores
 ![](/Analysis/bottom_schools_2.png)
 
+## Scores by School Type Before Removing THS 9th Grade Scores
+![](/Analysis/by_type_1.png)
+
+## Scores by School Type After Removing THS 9th Grade Scores
+![](/Analysis/by_type_2.png)
+
+## Scores by School Spending Before Removing THS 9th Grade Scores
+![](/Analysis/spending_ranges_1.png)
 
 
-# Results:
+## Scores by School Spending Before Removing THS 9th Grade Scores
+![](/Analysis/spending_range_2.png)
+
+
+
+
+
 
 ## How does replacing the ninth-grade scores affect the following:
 
